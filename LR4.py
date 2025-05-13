@@ -200,4 +200,4 @@ def main():
             break
 
 if __name__ == "__main__":
-    main()#test0
+    main()#Текст для оригинала
